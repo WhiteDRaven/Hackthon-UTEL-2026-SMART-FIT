@@ -1,0 +1,6 @@
+{
+  "name": "IMPULSA FIT",
+  "description": "Aplicación interactiva para explicar cómo realizar ejercicios y qué músculos se activan con videos explicativos y audio-guía técnica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
